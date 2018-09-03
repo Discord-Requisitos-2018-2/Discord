@@ -15,7 +15,7 @@ Repositório contém a documentação e artefatos feitos na matéria de Requisit
 | Igor Aragão | @roginaldosemog |
 | Igor Guimarães | @IgorVeludo |
 | João Pedro Mota | @jpmota |
-| Matheus Rodrigues | @m7rodrigues |
+| Matheus Rodrigues | @matheus-rn |
 | Miguel Alves | @Miguel-Alves |
 | William Almeida | @willallmeida |
 
