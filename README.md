@@ -1,7 +1,5 @@
 # Discord
 
-[[Discord-Logo.png]]
-
 
 Repositório contém a documentação e artefatos feitos na matéria de Requisitos de software do curso Engenharia de Software da Universidade de Brasília (UnB) - Campus FGA, semestre 2018/2.
 
