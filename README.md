@@ -13,7 +13,7 @@ Repositório contém a documentação e artefatos feitos na matéria de Requisit
 | Caio César | @caiocbeleza |
 | Caio Oliveira | @caiooliv |
 | Igor Aragão | @roginaldosemog |
-| Igor Guimarães | @IgorVeludo |
+| Igor Veludo | @IgorVeludo |
 | João Pedro Mota | @jpmota2208 |
 | Matheus Rodrigues | @matheus-rn |
 | Miguel Alves | @Miguel-Alves |
